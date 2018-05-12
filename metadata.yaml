@@ -1,0 +1,31 @@
+_repo: '-----------------------------------------3_31401'
+_version: 0.1.0
+alternative_title: 'Saint Dimitrios: Mystery in three acts'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rodokanakes, Platon
+    aliases:
+    - Ροδοκανάκης, Πλάτων
+    - Rodokanakis, Platon
+    birthdate: 1883
+    deathdate: 1919
+    gutenberg_agent_id: '35202'
+    url: http://www.gutenberg.org/2009/agents/35202
+    wikipedia: http://el.wikipedia.org/wiki/%CE%A0%CE%BB%CE%AC%CF%84%CF%89%CE%BD_%CE%A1%CE%BF%CE%B4%CE%BF%CE%BA%CE%B1%CE%BD%CE%AC%CE%BA%CE%B7%CF%82
+description: ''
+gutenberg_issued: '2010-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31401'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Drama'
+title: 'Ο Άγιος Δημήτριος: Μυστήριον εις πράξεις 3'
+url: http://www.gutenberg.org/ebooks/31401
